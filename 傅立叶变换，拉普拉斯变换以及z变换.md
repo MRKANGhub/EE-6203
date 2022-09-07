@@ -12,17 +12,15 @@
 ### 2.转化为指数形式
 
 下列为傅立叶级数的表达式，我们可以看出不是很统一，不便于后续计算。
+![Image text](https://github.com/MRKANGhub/EE-6203/blob/main/%E5%9B%BE%E7%89%87/%E5%82%85%E7%AB%8B%E5%8F%B6%E7%BA%A7%E6%95%B0.png)
 
-
-因此我们需要借用欧拉公式完成转换，下列为欧拉公式：
-
-转化为指数形式的傅立叶级数表现为下：
-
+因此我们需要借用欧拉公式完成转换，下列为欧拉公式,转化为指数形式的傅立叶级数表现为下：
+![Image text](https://github.com/MRKANGhub/EE-6203/blob/main/%E5%9B%BE%E7%89%87/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F.jpeg)
 
 ### 3.引出傅立叶变换
 
 傅立叶变换思想和傅立叶级数相同，但是傅立叶变换包含了非周期信号的转化和处理。即将周期推向无穷。
-
+！[Image text]https://github.com/MRKANGhub/EE-6203/blob/main/%E5%9B%BE%E7%89%87/%E5%82%85%E7%AB%8B%E5%8F%B6%E5%8F%98%E6%8D%A2.jpeg
 
 ## 二.拉普拉斯变换
 
