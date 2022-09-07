@@ -5,7 +5,7 @@
 ## 一.长除法
 
 长除法是整理多项式的一种方法
-！[Image text](https://github.com/MRKANGhub/EE-6203/blob/main/%E5%9B%BE%E7%89%87/%E6%88%AA%E5%B1%8F2022-09-07%20%E4%B8%8B%E5%8D%881.07.33.png)
+  ![Image text](https://github.com/MRKANGhub/EE-6203/blob/main/%E5%9B%BE%E7%89%87/%E6%88%AA%E5%B1%8F2022-09-07%20%E4%B8%8B%E5%8D%881.07.33.png)
 
 ## 二.差分法
 
