@@ -13,8 +13,7 @@
 ### 2.转化为指数形式
 
 下列为傅立叶级数的表达式，我们可以看出不是很统一，不便于后续计算。
-
-![]([/Users/kangshihao/Library/Application Support/typora-user-images/image-20220906190414815.png](https://github.com/MRKANGhub/EE-6203/blob/main/%E5%9B%BE%E7%89%87/IMG_0F565D21119A-1.jpeg))
+![Image text](https://github.com/MRKANGhub/EE-6203/blob/main/%E5%9B%BE%E7%89%87/IMG_0F565D21119A-1.jpeg)
 
 因此我们需要借用欧拉公式完成转换，下列为欧拉公式：
 
