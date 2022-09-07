@@ -30,7 +30,7 @@
 
 傅立叶变换思想和傅立叶级数相同，但是傅立叶变换包含了非周期信号的转化和处理。即将周期推向无穷。
 
-![image-20220906193056732](/Users/kangshihao/Library/Application Support/typora-user-images/image-20220906193056732.png)
+![Image text](/Users/kangshihao/Library/Application Support/typora-user-images/image-20220906193056732.png)
 
 ## 二.拉普拉斯变换
 
